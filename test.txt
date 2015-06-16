@@ -3,3 +3,6 @@ Test file
 This is a test file.
 
 Another line.
+
+And another line.
+

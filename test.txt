@@ -11,3 +11,5 @@ how many lines do I need to add to this?
 this could be it.
 
 just a test sent to #ntp.
+
+another sent.. previous send failed.
